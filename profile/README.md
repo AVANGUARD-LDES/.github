@@ -6,6 +6,6 @@
 
 AVANGUARD aims to accelerate *Long Duration Energy Storage (LDES)* uptake across Europe through an open-source platform for grid operators, policymakers, project developers & regulators.
 
-## Tool architecture
+## Platform architecture
 
 ![AVANGUARD tool architecture](images/AVANGUARD_tool-architecture.png)
