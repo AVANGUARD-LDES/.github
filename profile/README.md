@@ -8,4 +8,6 @@ AVANGUARD aims to accelerate *Long Duration Energy Storage (LDES)* uptake across
 
 ## Platform architecture
 
-![AVANGUARD tool architecture](images/AVANGUARD_tool-architecture.png)
+<p align="center">
+  <img src="images/AVANGUARD_tool-architecture.svg" alt="AVANGUARD" width="600">
+</p>
