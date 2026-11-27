@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/AVANGUARD_logo-2026_light-background.svg" alt="AVANGUARD" width="600">
+  <img src="images/AVANGUARD_logo-2026_light-background.svg" alt="AVANGUARD" width="70%">
 </p>
 
 ## Mission
@@ -9,5 +9,5 @@ AVANGUARD aims to accelerate *Long Duration Energy Storage (LDES)* uptake across
 ## Platform architecture
 
 <p align="center">
-  <img src="images/AVANGUARD_tool-architecture.svg" alt="AVANGUARD" width="600">
+  <img src="images/AVANGUARD_tool-architecture.svg" alt="AVANGUARD" width="90%">
 </p>
